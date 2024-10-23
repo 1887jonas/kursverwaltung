@@ -9,7 +9,7 @@
 <body>
     <div class="container">
         <header>
-            <h1>Buchungssystem</h1>
+            <h1>Navigation</h1>
             <nav>
                 <a href="{{ url('/') }}">Home</a>
                 <a href="{{ url('/admin/courses') }}">Adminbereich</a>

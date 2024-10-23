@@ -35,3 +35,4 @@
 
     <button type="submit">Kurs anlegen</button>
 </form>
+@endsection
